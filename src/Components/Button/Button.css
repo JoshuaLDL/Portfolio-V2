@@ -1,0 +1,54 @@
+/* Base button styling */
+button {
+    display: inline-block;
+    padding: 15px 20px;
+    margin: 10px 0px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #111111;
+    background-color: #aaff00;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-family: "Bebas Neue", serif;
+  }
+  
+  /* Hover effect */
+  button:hover {
+    background-color: #ffffff;
+  }
+
+  /* Base button styling */
+.button {
+    display: inline-block;
+    padding: 15px 20px;
+    margin: 10px 0px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #111111;
+    background-color: #aaff00;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-family: "Bebas Neue", serif;
+  }
+  
+  /* Hover effect */
+.button:hover {
+    background-color: #ffffff;
+  }
+  
+  /* Active effect */
+  button:active {
+    background-color: #aaff00;
+  }
+  
+  /* Disabled state */
+  button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+  }

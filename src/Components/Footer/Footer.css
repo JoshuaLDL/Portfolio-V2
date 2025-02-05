@@ -1,0 +1,29 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    color:white;
+    /* box-sizing: border-box; 
+    border: 2px solid white;  */
+    padding: 20px;
+    margin: 20px;
+    font-family: "Montserrat", serif;
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    font-size: 25px;
+}
+
+.socialLinks{
+    display: flex;
+    flex-direction: row;
+    color: #aaff00;
+    transition: all 0.5s;
+    text-decoration: none;
+}
+
+.socialLinks:hover{
+    color: #ffffff;
+}
