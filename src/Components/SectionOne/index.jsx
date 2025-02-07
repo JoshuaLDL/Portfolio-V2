@@ -3,7 +3,7 @@ import ImageOne from "../ImageOne"
 import "./SectionOne.css"
 
 
-export default function SectionOne() {
+export default function SectionOne({text, link}) {
 
     return(
 
@@ -18,9 +18,7 @@ export default function SectionOne() {
             <p>Hello, I'm Josh. I'm currently enrolled on the Software Developer Essentials at iO Academy, in Bath. 
                 I'm confident that upon graduation, I will have the skills and knowledge to excel in a junior web developer role
                 to continue developing my skills in HTML, CSS and Javascript for front-end and PHP and Node.js for back-end.</p>
-            <a href="./about.html">
-                <Button text="Read More" />
-            </a>
+                <Button text={text} link={link} />
         </div>
 
     </div>

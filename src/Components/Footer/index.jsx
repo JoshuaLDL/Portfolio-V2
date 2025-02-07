@@ -1,3 +1,4 @@
+import NavLink from "../NavLink"
 import "./Footer.css"
 
 export default function Footer() {
@@ -16,7 +17,10 @@ export default function Footer() {
 
         </div>
         <div>
-            <p>Copyright &copy; 2025 Joshua Downton-Lewis</p>
+            <p>Copyright &copy; 2025 Joshua Downton-Lewis
+                <NavLink link="#" text="Example1" />
+                <NavLink link="#" text="Example2" />
+            </p>
         </div>
         </footer>
     )

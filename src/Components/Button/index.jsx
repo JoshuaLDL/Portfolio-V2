@@ -1,9 +1,9 @@
 import "./Button.css"
 
-export default function Button ({text}) {
+export default function Button ({link, text}) {
     return(
-
-        <button>{text}</button>
-
+        <a href={link} >
+            <button>{text}</button>
+            </a>
     )
 }
