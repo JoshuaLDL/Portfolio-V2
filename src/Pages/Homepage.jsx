@@ -9,8 +9,10 @@ export default function Homepage() {
         <div>
             <SectionOne text="Read more" link="./about" />
             <div className="sectionTwo">
-            <SectionTwo title="Portfolio" text="Take a look" link="./portfolio"/>
-            <SectionTwo title="Contact" text="Send a message" link="./contact"/>
+            <SectionTwo title="PORTFOLIO" text="Take a look" link="./portfolio"
+            body="A portfolio of all my recent projects from front-end to back-end."/>
+            <SectionTwo title="CONTACT" text="Send a message" link="./contact"
+            body="Send me an email with any questions you might have and I'll get right back to you!"/>
             </div>
         </div>
 

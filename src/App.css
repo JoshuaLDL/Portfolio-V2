@@ -11,22 +11,41 @@
     font-style: normal;
   }
 
-  h1{
-    font-family: "Bebas Neue", serif;
+  .rubik {
+    font-family: "Rubik", serif;
+    font-optical-sizing: auto;
+    font-weight: 500, 800;
+    font-style: normal;
+  }
+
+h1{
+    font-family: "Rubik", serif;
     color:white;
+    font-size: 25px;
+    font-weight: 800;
 }
 
 .h1{
     color:white;
+    font-family: "Rubik", serif;
+    font-size: 25px;
+    
 }
 
 h2{
-    font-family: "Bebas Neue", serif;
+    font-family: "Rubik", serif;
+    font-size: 20px;
+}
+
+h3{
+    font-family: "Rubik", serif;
+    font-size: 18px;
 }
 
 h5{
-    font-family: "Montserrat", serif;
-    font-style: bold;
+    font-family: "Rubik", serif;
+    font-size: 12px;
+    font-weight: 700;
     padding: 2px 0px;
     margin: 0px 0px;
     
@@ -54,12 +73,18 @@ nav {
 .menuLinks {
     text-decoration: none;
     color: white;
-    font-family: "Bebas Neue", serif;
+    font-family: "Rubik", serif;
     gap: 10px;
     transition: all 0.5s;
     font-size: 25px;
+    font-weight: 800;
 }
 
 .menuLinks:hover {
     color: greenyellow;
+}
+
+.logo{
+margin: 0;
+padding: 0;
 }

@@ -4,9 +4,9 @@ export default function Nav() {
     return (
 
         <div className="header">
-        <p><a href="./index.html">
-            <img src="#" alt="Logo for portfolio site" width="100" height="132" />
-        </a></p>
+        <a href="./index.html">
+            <img src="Assets/SiteLogo2.png" width="100" height="132" />
+        </a>
         <nav className="menu">
             <a className="menuLinks" href="./about.html">About</a>
             <a className="menuLinks" href="./portfolio.html">Portfolio</a>

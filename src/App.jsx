@@ -15,11 +15,11 @@ export default function App() {
 
     <BrowserRouter>
         <nav>
-            <Link to="/"><img src="#" alt="Logo for portfolio site" width="100" height="132"/></Link>
+            <Link className="logo" to="/"><img src="Assets/SiteLogo2.png" alt="Logo for portfolio site" width="auto" height="50"/></Link>
             <div className="menu">
-                <Link className="menuLinks" to="/about">About</Link>
-                <Link className="menuLinks" to="/portfolio">Portfolio</Link>
-                <Link className="menuLinks" to="/contact">Contact</Link>
+                <Link className="menuLinks" to="/about">ABOUT</Link>
+                <Link className="menuLinks" to="/portfolio">PORTFOLIO</Link>
+                <Link className="menuLinks" to="/contact">CONTACT</Link>
             </div>
         </nav>
 

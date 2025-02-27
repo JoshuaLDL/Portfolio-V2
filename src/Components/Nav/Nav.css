@@ -15,10 +15,11 @@
 .menuLinks {
     text-decoration: none;
     color: white;
-    font-family: "Bebas Neue", serif;
+    /* font-family: "Bebas Neue", serif; */
+    font-family: "Rubik", serif;
     gap: 10px;
     transition: all 0.5s;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .menuLinks:hover {

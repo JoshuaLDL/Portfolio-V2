@@ -14,10 +14,10 @@ export default function SectionOne({text, link}) {
             <ImageOne />
         </div>
         <div className="innerSectionOne">
-            <h1>About Me</h1>
-            <p>Hello, I'm Josh. I'm currently enrolled on the Software Developer Essentials at iO Academy, in Bath. 
-                I'm confident that upon graduation, I will have the skills and knowledge to excel in a junior web developer role
-                to continue developing my skills in HTML, CSS and Javascript for front-end and PHP and Node.js for back-end.</p>
+            <h1>ABOUT ME</h1>
+            <p>Hello, I'm Joshua. I'm currently enrolled on the Software Developer Essentials at iO Academy, in Bath. 
+                I'm confident that upon graduation, I will have the skills and knowledge to excel in a junior software developer role
+                to continue developing my skills in HTML, CSS, Tailwind, JS and React for front-end and PHP, MySQL, Laravel and Node.js for back-end.</p>
                 <Button text={text} link={link} />
         </div>
 
