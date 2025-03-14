@@ -10,7 +10,7 @@ export default function Nav() {
         <nav className="menu">
             <a className="menuLinks" href="./about.html">About</a>
             <a className="menuLinks" href="./portfolio.html">Portfolio</a>
-            <a className="menuLinks" href="./contact.html">Contact</a>
+            <a className="menuLinks" href="./contact.html">Blog</a>
         </nav>
         </div>
 

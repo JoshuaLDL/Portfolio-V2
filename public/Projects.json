@@ -1,7 +1,7 @@
 {
     "projects": [
         {
-        "title": "Project One",
+        "title": "Pokédex Website",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "image": "images/project_1.png",
         "alt": "some alt text",
@@ -9,7 +9,7 @@
         },
     
         {
-        "title": "Project Two",
+        "title": "Bookshelf App",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "image": "images/project_2.png",
         "alt": "some alt text",
@@ -17,12 +17,12 @@
         },
     
         {
-        "title": "Project Three",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "title": "Research Paper",
+        "description": "My research paper about the impact gossip magazines have on the iteration of internalised misogyny.",
         "image": "images/project_3.png",
         "alt": "some alt text",
-        "link": "src/Pages/ResearchProjectOne.jsx"
-            },
+        "link": "/ResearchProjectOne"
+        },
 
         {
         "title": "Project Four",
