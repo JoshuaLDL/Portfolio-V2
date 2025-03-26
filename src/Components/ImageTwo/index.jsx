@@ -3,7 +3,7 @@ import "./ImageTwo.css"
 export default function ImageTwo() {
     return (
         <div className="imageTwo">
-            <img src="Assets/ImageTwo.png" alt="photo of gumbo in a white bowl with some white rice." width="100%" height="auto" />
+            <img src="Assets/ImageTwo.png" alt="Illustration of a ginger man wearing a blue tshirt and jeans walking." width="80%" height="auto" />
         </div>
     )
 }

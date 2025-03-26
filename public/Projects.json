@@ -9,11 +9,11 @@
         },
     
         {
-        "title": "Bookshelf App",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "title": "Blog App",
+        "description": "A web application that provides functionality to view posts, login/out, write posts to contribute to topics and leave comments on existing posts.",
         "image": "images/project_2.png",
         "alt": "some alt text",
-        "link": "https://example.com/project1"
+        "link": "https://2025-phpangolins-blog.dev.io-academy.uk/"
         },
     
         {
@@ -25,28 +25,11 @@
         },
 
         {
-        "title": "Project Four",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "image": "images/project_1.png",
-        "alt": "some alt text",
-        "link": "https://example.com/project1"
-        },
-    
-        {
-        "title": "Project Five",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "image": "images/project_2.png",
-        "alt": "some alt text",
-        "link": "https://example.com/project1"
-        },
-    
-        {
-        "title": "Project Six",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "title": "Bookshelf App",
+        "description": "A web application that allows users to view available books, search for books by name, filter books by genre, view claimed books, claim a book, review books and even add new books to the system.",
         "image": "images/project_3.png",
         "alt": "some alt text",
-        "link": "https://example.com/project1"
-            }
-    
+        "link": "https://2025-htmelephant-bookswap.dev.io-academy.uk/"
+        }
         
     ]}
