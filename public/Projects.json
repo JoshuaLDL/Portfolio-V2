@@ -3,7 +3,6 @@
         {
         "title": "Pokédex Website",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "image": "images/project_1.png",
         "alt": "some alt text",
         "link": "https://example.com/project1"
         },
@@ -11,7 +10,6 @@
         {
         "title": "Blog App",
         "description": "A web application that provides functionality to view posts, login/out, write posts to contribute to topics and leave comments on existing posts.",
-        "image": "images/project_2.png",
         "alt": "some alt text",
         "link": "https://2025-phpangolins-blog.dev.io-academy.uk/"
         },
@@ -19,7 +17,6 @@
         {
         "title": "Research Paper",
         "description": "My research paper about the impact gossip magazines have on the iteration of internalised misogyny.",
-        "image": "images/project_3.png",
         "alt": "some alt text",
         "link": "/ResearchProjectOne"
         },
@@ -27,9 +24,14 @@
         {
         "title": "Bookshelf App",
         "description": "A web application that allows users to view available books, search for books by name, filter books by genre, view claimed books, claim a book, review books and even add new books to the system.",
-        "image": "images/project_3.png",
         "alt": "some alt text",
         "link": "https://2025-htmelephant-bookswap.dev.io-academy.uk/"
-        }
+        },
+
+        {
+            "title": "Quiz API",
+            "description": "A quiz API that allows for a teacher to create quizzes to test their students. With functions that allow the teacher to add, edit and delete quizzes, questions and the relevant answers, view all quizzes and/or single quizzes and calculate quiz results from each student.",
+            "link": "https://2025-laravants-quiz-fe.dev.io-academy.uk/"
+            }
         
     ]}

@@ -9,6 +9,7 @@ import AboutPage from "./Pages/AboutPage"
 import Portfolio from "./Pages/PortfolioPage"
 import ContactPage from "./Pages/ContactPage"
 import ResearchProjectOne from "./Pages/ResearchProjectOne"
+import ComingSoon from "./Components/ComingSoon"
 
 
 export default function App() {
@@ -29,7 +30,7 @@ export default function App() {
         <Route path="/about" element={<AboutPage />} />
         <Route path="/portfolio" element={<Portfolio />} />
         <Route path="/ResearchProjectOne" element={<ResearchProjectOne />} />
-        {/* <Route path="/books/:id" element={<BookDetailPage/>} /> */}
+        <Route path="/blog" element={<ComingSoon />} />
       </Routes>
 
       <Footer />
