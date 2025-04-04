@@ -11,15 +11,13 @@ export default function Footer() {
             <a className="socialLinks" href="https://www.linkedin.com/in/joshuadownton-lewis/">
                 <i class="fa-brands fa-linkedin-in"></i>
             </a>
-            <a className="socialLinks" href="mailto:joshuadowntonlewis@outlook.com" target="blank">
+            <a className="socialLinks" href="mailto:joshuadownton-lewis@outlook.com" target="blank">
                 <i class="fa-regular fa-envelope"></i>
             </a>
 
         </div>
         <div>
             <p>Copyright &copy; 2025 Joshua Downton-Lewis
-                {/* <NavLink link="#" text="Example1" />
-                <NavLink link="#" text="Example2" /> */}
             </p>
         </div>
         </footer>

@@ -1,36 +1,36 @@
 {
     "projects": [
         {
-        "title": "Pokédex Website",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "title": "PokéGrid Application ",
+        "description": "Made in React, my Pokégrid app allows users to view the Pokémon entries from each of the main-series games. Displaying data on each Pokémon entry and allowing the user to save their favourites for easy access to data.",
         "alt": "some alt text",
-        "link": "https://example.com/project1"
+        "link": "https://pokegrid.2025-joshuadl.dev.io-academy.uk/"
         },
     
         {
-        "title": "Blog App",
-        "description": "A web application that provides functionality to view posts, login/out, write posts to contribute to topics and leave comments on existing posts.",
+        "title": "Blog Application",
+        "description": "Made in PHP, this web application provides functionality to view posts, login/out, write posts to contribute to topics and leave comments on existing posts.",
         "alt": "some alt text",
         "link": "https://2025-phpangolins-blog.dev.io-academy.uk/"
         },
     
         {
         "title": "Research Paper",
-        "description": "My research paper about the impact gossip magazines have on the iteration of internalised misogyny.",
+        "description": "My research paper about the impact gossip magazines have on the iteration of internalised misogyny - exploring how subliminal messaging is consumed subconciously to spin a narrative of women in gossip media.",
         "alt": "some alt text",
         "link": "/ResearchProjectOne"
         },
 
         {
         "title": "Bookshelf App",
-        "description": "A web application that allows users to view available books, search for books by name, filter books by genre, view claimed books, claim a book, review books and even add new books to the system.",
+        "description": "Made in React, this is a web application that allows users to view available books, search for books by name, filter books by genre, view claimed books, claim a book, review books and even add new books to the system.",
         "alt": "some alt text",
         "link": "https://2025-htmelephant-bookswap.dev.io-academy.uk/"
         },
 
         {
-            "title": "Quiz API",
-            "description": "A quiz API that allows for a teacher to create quizzes to test their students. With functions that allow the teacher to add, edit and delete quizzes, questions and the relevant answers, view all quizzes and/or single quizzes and calculate quiz results from each student.",
+            "title": "Quiz API (Laravel)",
+            "description": "Made in Laravel this quiz API allows for a teacher to create quizzes to test their students. With functions that allow the teacher to add, edit and delete quizzes, questions and the relevant answers, view all quizzes and/or single quizzes and calculate quiz results from each student.",
             "link": "https://2025-laravants-quiz-fe.dev.io-academy.uk/"
             }
         

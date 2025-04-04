@@ -7,7 +7,7 @@ export default function Projects() {
     const [Projects, setProjects] = useState([])
     
     function getData () {
-        fetch('public/projects.json')
+        fetch('/Projects.json')
         .then (res => res.json())
         .then (data => {
             setProjects (data.projects)
