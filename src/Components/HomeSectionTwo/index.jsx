@@ -7,7 +7,7 @@ export default function HomeSectiontwo(){
             <div className="mainBox">
                 <h2>PORTFOLIO</h2>
                 <p>A portfolio of all my recent full-stack work from passion projects to Libray apps and research papers.</p>
-                <a href = "./portfolio">
+                <a href = "/portfolio">
                     <button>View Work</button>
                 </a>
             </div>
