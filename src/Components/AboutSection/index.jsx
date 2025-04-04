@@ -16,7 +16,7 @@ export default function AboutSection({link, text}) {
                 <br></br>
                 With a history in Graphic design and Marketing, I have a wide skillset perfectly tailored for business development - allowing me to help businesses perfect how they interact and communicate with their audiences online. Couple that with my interest into user psychology and research into subconscious consumption - I would make a great asset to any team of developers. </p>
 
-                <a href="public/Assets/JoshuaDownton-LewisCV.pdf" download="Joshua D-L CV" target='_blank'>
+                <a href="Assets/JoshuaDownton-LewisCV.pdf" download="Joshua D-L CV" target='_blank'>
                 <button>Download CV</button>
                 </a>
         </div>

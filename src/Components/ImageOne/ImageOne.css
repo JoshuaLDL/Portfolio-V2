@@ -1,5 +1,8 @@
 .imageBox{
-  width: 400px;
-  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0px;
+  max-width: 500px;
 
 }
