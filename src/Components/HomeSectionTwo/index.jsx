@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "./HomeSectionTwo.css";
 
 export default function HomeSectiontwo(){
