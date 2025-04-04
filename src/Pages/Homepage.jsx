@@ -8,7 +8,7 @@ import HomeSectiontwo from "../Components/HomeSectionTwo";
 export default function Homepage() {
     return (
         <div>
-            <SectionOne text="Read more" link="./about.html" />
+            <SectionOne text="Read more" link="/about" />
             {/* <div className="sectionTwo">
             <SectionTwo title="PORTFOLIO" text="Take a look" link="./portfolio"
             body="A portfolio of all my recent projects from front-end to back-end."/>

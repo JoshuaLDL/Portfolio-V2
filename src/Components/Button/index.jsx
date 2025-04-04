@@ -1,9 +1,10 @@
+import { Link } from "react-router-dom"
 import "./Button.css"
 
 export default function Button ({link, text}) {
     return(
-        <a href={link} >
+        <Link to={link}>
             <button>{text}</button>
-            </a>
+        </Link>
     )
 }
